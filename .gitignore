@@ -1,0 +1,15 @@
+/.Module.symvers.cmd
+/.modules.order.cmd
+/.pcd.ko.cmd
+/.pcd.mod.cmd
+/.pcd.mod.o.cmd
+/.pcd.o.cmd
+/.vscode
+/Module.symvers
+/modules.order
+/pcd.ko
+/pcd.mod
+/pcd.mod.c
+/pcd.mod.o
+/pcd.o
+/pcd_test
