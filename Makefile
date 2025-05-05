@@ -1,4 +1,7 @@
-obj-m += pcd.o
+obj-m := pcd.o
+ifdef multiple
+obj-m := multiple_pcd.o
+endif
 
 KDIR := /lib/modules/$(shell uname -r)/build
 PWD := $(shell pwd)

@@ -13,3 +13,12 @@
 /pcd.mod.o
 /pcd.o
 /pcd_test
+.multiple_pcd.ko.cmd
+.multiple_pcd.mod.cmd
+.multiple_pcd.mod.o.cmd
+.multiple_pcd.o.cmd
+multiple_pcd.ko
+multiple_pcd.mod
+multiple_pcd.mod.c
+multiple_pcd.mod.o
+multiple_pcd.o
